@@ -25,7 +25,7 @@ dynamic test2=true;
 test2=10;
 test2='sa';
 test2=10.5;
-print(test2.runtimeType);
+print(test2.runtimeType);     //
 
 }
 
